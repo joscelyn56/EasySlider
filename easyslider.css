@@ -1,6 +1,6 @@
 /*! 
 * EasySlider easyslider.css https://github.com/joscelyn56/EasySlider
-* Version - 0.0.1
+* Version - 0.0.2
 * Licensed under the MIT license - http://opensource.org/licenses/MIT
 *
 * Copyright (c) 2018 Okwu Joscelyn Kinikachi
@@ -17,6 +17,9 @@
     display: -webkit-inline-box;
 }
 .easy-slider > .easy-slider-body > .easy-slide{
+	display: none;
+}
+.easy-hide-dots > .easy-dots{
 	display: none;
 }
 .easy-slider > .easy-dots{
