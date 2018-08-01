@@ -1,6 +1,9 @@
 # Easyslider
 Create a slideshow without writing any CSS or JS, just style your container and add the easy classes to begin
 
+#Requires
+jquery
+
 # Silder Structure
 ```html
 <div class="easy-slider">
